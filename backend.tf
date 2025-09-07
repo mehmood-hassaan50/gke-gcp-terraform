@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket = "tfbucket-state-1"
+    bucket = "tfbucket-state-hasss"
     prefix = "gke-cluster"
   }
 }
